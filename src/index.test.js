@@ -9,7 +9,7 @@ test(`sub 10 - 5 be equal 5`, () => {
 });
 
 test(`times 10 * 5 be equal 50`, () => {
-    expect(times(10, 5)).toBe(51);
+    expect(times(10, 5)).toBe(53);
 });
 
 test(`div 10 / 5 be equal 2`, () => {
