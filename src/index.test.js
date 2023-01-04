@@ -15,3 +15,7 @@ test(`times 10 * 5 be equal 50`, () => {
 test(`div 10 / 5 be equal 2`, () => {
     expect(div(10, 5)).toBe(2);
 });
+
+test(`sub 8 - 4 be equal 4`, () => {
+    expect(sub(8, 4)).toBe(4);
+});
